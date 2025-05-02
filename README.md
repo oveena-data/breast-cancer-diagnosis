@@ -1,4 +1,4 @@
-# 🧬 Histological Cell Image Classification for Breast Cancer Diagnosis
+# 🧬 Cell Image Classification for Breast Cancer Diagnosis
 
 ## Project Overview
 
